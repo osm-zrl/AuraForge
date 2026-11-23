@@ -157,6 +157,9 @@ auraforge --list-profiles
 
 ## Using the app
 
+<img width="832" height="1088" alt="Screenshot From 2026-11-23 21-22-05" src="https://github.com/user-attachments/assets/54d73d15-ee13-45bf-97ac-34cb27c2fc67" />
+
+
 | Area | What it does |
 |---|---|
 | **Initialize** (header) | Runs `rogauracore initialize_keyboard`, then re-applies the current lighting. |
