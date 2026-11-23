@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=AuraForge
+GenericName=Keyboard Lighting
+Comment=Control the RGB keyboard and light bar on ASUS ROG laptops
+Exec=auraforge
+Icon=io.github.osm_zrl.AuraForge
+Terminal=false
+Categories=Settings;HardwareSettings;GTK;
+Keywords=rgb;keyboard;backlight;aura;asus;rog;lighting;led;
+StartupNotify=true
+DBusActivatable=false
